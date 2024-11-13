@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="heightInput" type="id" />
+    <item name="weightInput" type="id" />
+    <item name="addButton" type="id" />
+    <item name="recyclerView" type="id" />
+</resources>
